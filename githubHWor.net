@@ -1,0 +1,676 @@
+( { EESchema Netlist Version 1.1 created  22.12.2017 07:03:46 }
+ ( /5A383435 $noname  D65 LED
+  (    1 Net-(D100-Pad1) )
+  (    2 Net-(D50-Pad2) )
+ )
+ ( /5A3834F9 $noname  D64 LED
+  (    1 Net-(D106-Pad1) )
+  (    2 Net-(D50-Pad2) )
+ )
+ ( /5A38358C $noname  D66 LED
+  (    1 Net-(D101-Pad1) )
+  (    2 Net-(D50-Pad2) )
+ )
+ ( /5A3836CF $noname  D67 LED
+  (    1 Net-(D102-Pad1) )
+  (    2 Net-(D50-Pad2) )
+ )
+ ( /5A3836F8 $noname  D68 LED
+  (    1 Net-(D103-Pad1) )
+  (    2 Net-(D50-Pad2) )
+ )
+ ( /5A3838C6 $noname  D69 LED
+  (    1 Net-(D104-Pad1) )
+  (    2 Net-(D50-Pad2) )
+ )
+ ( /5A38398B $noname  D70 LED
+  (    1 Net-(D105-Pad1) )
+  (    2 Net-(D50-Pad2) )
+ )
+ ( /5A3857D0 $noname  D72 LED
+  (    1 Net-(D100-Pad1) )
+  (    2 Net-(D57-Pad2) )
+ )
+ ( /5A3857D7 $noname  D71 LED
+  (    1 Net-(D106-Pad1) )
+  (    2 Net-(D57-Pad2) )
+ )
+ ( /5A3857DE $noname  D73 LED
+  (    1 Net-(D101-Pad1) )
+  (    2 Net-(D57-Pad2) )
+ )
+ ( /5A3857E5 $noname  D74 LED
+  (    1 Net-(D102-Pad1) )
+  (    2 Net-(D57-Pad2) )
+ )
+ ( /5A3857EC $noname  D75 LED
+  (    1 Net-(D103-Pad1) )
+  (    2 Net-(D57-Pad2) )
+ )
+ ( /5A3857F3 $noname  D76 LED
+  (    1 Net-(D104-Pad1) )
+  (    2 Net-(D57-Pad2) )
+ )
+ ( /5A3857FA $noname  D77 LED
+  (    1 Net-(D105-Pad1) )
+  (    2 Net-(D57-Pad2) )
+ )
+ ( /5A385943 $noname  D79 LED
+  (    1 Net-(D100-Pad1) )
+  (    2 Net-(D78-Pad2) )
+ )
+ ( /5A38594A $noname  D78 LED
+  (    1 Net-(D106-Pad1) )
+  (    2 Net-(D78-Pad2) )
+ )
+ ( /5A385951 $noname  D80 LED
+  (    1 Net-(D101-Pad1) )
+  (    2 Net-(D78-Pad2) )
+ )
+ ( /5A385958 $noname  D81 LED
+  (    1 Net-(D102-Pad1) )
+  (    2 Net-(D78-Pad2) )
+ )
+ ( /5A38595F $noname  D82 LED
+  (    1 Net-(D103-Pad1) )
+  (    2 Net-(D78-Pad2) )
+ )
+ ( /5A385966 $noname  D83 LED
+  (    1 Net-(D104-Pad1) )
+  (    2 Net-(D78-Pad2) )
+ )
+ ( /5A38596D $noname  D84 LED
+  (    1 Net-(D105-Pad1) )
+  (    2 Net-(D78-Pad2) )
+ )
+ ( /5A3869DC $noname  D86 LED
+  (    1 Net-(D100-Pad1) )
+  (    2 Net-(D85-Pad2) )
+ )
+ ( /5A3869E3 $noname  D85 LED
+  (    1 Net-(D106-Pad1) )
+  (    2 Net-(D85-Pad2) )
+ )
+ ( /5A3869EA $noname  D87 LED
+  (    1 Net-(D101-Pad1) )
+  (    2 Net-(D85-Pad2) )
+ )
+ ( /5A3869F1 $noname  D88 LED
+  (    1 Net-(D102-Pad1) )
+  (    2 Net-(D85-Pad2) )
+ )
+ ( /5A3869F8 $noname  D89 LED
+  (    1 Net-(D103-Pad1) )
+  (    2 Net-(D85-Pad2) )
+ )
+ ( /5A3869FF $noname  D90 LED
+  (    1 Net-(D104-Pad1) )
+  (    2 Net-(D85-Pad2) )
+ )
+ ( /5A386A06 $noname  D91 LED
+  (    1 Net-(D105-Pad1) )
+  (    2 Net-(D85-Pad2) )
+ )
+ ( /5A386A29 $noname  D93 LED
+  (    1 Net-(D100-Pad1) )
+  (    2 Net-(D92-Pad2) )
+ )
+ ( /5A386A30 $noname  D92 LED
+  (    1 Net-(D106-Pad1) )
+  (    2 Net-(D92-Pad2) )
+ )
+ ( /5A386A37 $noname  D94 LED
+  (    1 Net-(D101-Pad1) )
+  (    2 Net-(D92-Pad2) )
+ )
+ ( /5A386A3E $noname  D95 LED
+  (    1 Net-(D102-Pad1) )
+  (    2 Net-(D92-Pad2) )
+ )
+ ( /5A386A45 $noname  D96 LED
+  (    1 Net-(D103-Pad1) )
+  (    2 Net-(D92-Pad2) )
+ )
+ ( /5A386A4C $noname  D97 LED
+  (    1 Net-(D104-Pad1) )
+  (    2 Net-(D92-Pad2) )
+ )
+ ( /5A386A53 $noname  D98 LED
+  (    1 Net-(D105-Pad1) )
+  (    2 Net-(D92-Pad2) )
+ )
+ ( /5A386A76 $noname  D100 LED
+  (    1 Net-(D100-Pad1) )
+  (    2 Net-(D100-Pad2) )
+ )
+ ( /5A386A7D $noname  D99 LED
+  (    1 Net-(D106-Pad1) )
+  (    2 Net-(D100-Pad2) )
+ )
+ ( /5A386A84 $noname  D101 LED
+  (    1 Net-(D101-Pad1) )
+  (    2 Net-(D100-Pad2) )
+ )
+ ( /5A386A8B $noname  D102 LED
+  (    1 Net-(D102-Pad1) )
+  (    2 Net-(D100-Pad2) )
+ )
+ ( /5A386A92 $noname  D103 LED
+  (    1 Net-(D103-Pad1) )
+  (    2 Net-(D100-Pad2) )
+ )
+ ( /5A386A99 $noname  D104 LED
+  (    1 Net-(D104-Pad1) )
+  (    2 Net-(D100-Pad2) )
+ )
+ ( /5A386AA0 $noname  D105 LED
+  (    1 Net-(D105-Pad1) )
+  (    2 Net-(D100-Pad2) )
+ )
+ ( /5A387471 $noname  D107 LED
+  (    1 Net-(D100-Pad1) )
+  (    2 Net-(D106-Pad2) )
+ )
+ ( /5A387478 $noname  D106 LED
+  (    1 Net-(D106-Pad1) )
+  (    2 Net-(D106-Pad2) )
+ )
+ ( /5A38747F $noname  D108 LED
+  (    1 Net-(D101-Pad1) )
+  (    2 Net-(D106-Pad2) )
+ )
+ ( /5A387486 $noname  D109 LED
+  (    1 Net-(D102-Pad1) )
+  (    2 Net-(D106-Pad2) )
+ )
+ ( /5A38748D $noname  D110 LED
+  (    1 Net-(D103-Pad1) )
+  (    2 Net-(D106-Pad2) )
+ )
+ ( /5A387494 $noname  D111 LED
+  (    1 Net-(D104-Pad1) )
+  (    2 Net-(D106-Pad2) )
+ )
+ ( /5A38749B $noname  D112 LED
+  (    1 Net-(D105-Pad1) )
+  (    2 Net-(D106-Pad2) )
+ )
+ ( /5A3874BE $noname  D114 LED
+  (    1 Net-(D100-Pad1) )
+  (    2 Net-(D113-Pad2) )
+ )
+ ( /5A3874C5 $noname  D113 LED
+  (    1 Net-(D106-Pad1) )
+  (    2 Net-(D113-Pad2) )
+ )
+ ( /5A3874CC $noname  D115 LED
+  (    1 Net-(D101-Pad1) )
+  (    2 Net-(D113-Pad2) )
+ )
+ ( /5A3874D3 $noname  D116 LED
+  (    1 Net-(D102-Pad1) )
+  (    2 Net-(D113-Pad2) )
+ )
+ ( /5A3874DA $noname  D117 LED
+  (    1 Net-(D103-Pad1) )
+  (    2 Net-(D113-Pad2) )
+ )
+ ( /5A3874E1 $noname  D118 LED
+  (    1 Net-(D104-Pad1) )
+  (    2 Net-(D113-Pad2) )
+ )
+ ( /5A3874E8 $noname  D119 LED
+  (    1 Net-(D105-Pad1) )
+  (    2 Net-(D113-Pad2) )
+ )
+ ( /5A38750B $noname  D121 LED
+  (    1 Net-(D100-Pad1) )
+  (    2 Net-(D120-Pad2) )
+ )
+ ( /5A387512 $noname  D120 LED
+  (    1 Net-(D106-Pad1) )
+  (    2 Net-(D120-Pad2) )
+ )
+ ( /5A387519 $noname  D122 LED
+  (    1 Net-(D101-Pad1) )
+  (    2 Net-(D120-Pad2) )
+ )
+ ( /5A387520 $noname  D123 LED
+  (    1 Net-(D102-Pad1) )
+  (    2 Net-(D120-Pad2) )
+ )
+ ( /5A387527 $noname  D124 LED
+  (    1 Net-(D103-Pad1) )
+  (    2 Net-(D120-Pad2) )
+ )
+ ( /5A38752E $noname  D125 LED
+  (    1 Net-(D104-Pad1) )
+  (    2 Net-(D120-Pad2) )
+ )
+ ( /5A387535 $noname  D126 LED
+  (    1 Net-(D105-Pad1) )
+  (    2 Net-(D120-Pad2) )
+ )
+ ( /5A38AD4A $noname  D2 LED
+  (    1 Net-(D16-Pad1) )
+  (    2 Net-(D1-Pad2) )
+ )
+ ( /5A38AD51 $noname  D1 LED
+  (    1 Net-(D1-Pad1) )
+  (    2 Net-(D1-Pad2) )
+ )
+ ( /5A38AD58 $noname  D3 LED
+  (    1 Net-(D10-Pad1) )
+  (    2 Net-(D1-Pad2) )
+ )
+ ( /5A38AD5F $noname  D4 LED
+  (    1 Net-(D11-Pad1) )
+  (    2 Net-(D1-Pad2) )
+ )
+ ( /5A38AD66 $noname  D5 LED
+  (    1 Net-(D12-Pad1) )
+  (    2 Net-(D1-Pad2) )
+ )
+ ( /5A38AD6D $noname  D6 LED
+  (    1 Net-(D13-Pad1) )
+  (    2 Net-(D1-Pad2) )
+ )
+ ( /5A38AD74 $noname  D7 LED
+  (    1 Net-(D14-Pad1) )
+  (    2 Net-(D1-Pad2) )
+ )
+ ( /5A38AD97 $noname  D9 LED
+  (    1 Net-(D16-Pad1) )
+  (    2 Net-(D10-Pad2) )
+ )
+ ( /5A38AD9E $noname  D8 LED
+  (    1 Net-(D1-Pad1) )
+  (    2 Net-(D10-Pad2) )
+ )
+ ( /5A38ADA5 $noname  D10 LED
+  (    1 Net-(D10-Pad1) )
+  (    2 Net-(D10-Pad2) )
+ )
+ ( /5A38ADAC $noname  D11 LED
+  (    1 Net-(D11-Pad1) )
+  (    2 Net-(D10-Pad2) )
+ )
+ ( /5A38ADB3 $noname  D12 LED
+  (    1 Net-(D12-Pad1) )
+  (    2 Net-(D10-Pad2) )
+ )
+ ( /5A38ADBA $noname  D13 LED
+  (    1 Net-(D13-Pad1) )
+  (    2 Net-(D10-Pad2) )
+ )
+ ( /5A38ADC1 $noname  D14 LED
+  (    1 Net-(D14-Pad1) )
+  (    2 Net-(D10-Pad2) )
+ )
+ ( /5A38ADE4 $noname  D16 LED
+  (    1 Net-(D16-Pad1) )
+  (    2 Net-(D15-Pad2) )
+ )
+ ( /5A38ADEB $noname  D15 LED
+  (    1 Net-(D1-Pad1) )
+  (    2 Net-(D15-Pad2) )
+ )
+ ( /5A38ADF2 $noname  D17 LED
+  (    1 Net-(D10-Pad1) )
+  (    2 Net-(D15-Pad2) )
+ )
+ ( /5A38ADF9 $noname  D18 LED
+  (    1 Net-(D11-Pad1) )
+  (    2 Net-(D15-Pad2) )
+ )
+ ( /5A38AE00 $noname  D19 LED
+  (    1 Net-(D12-Pad1) )
+  (    2 Net-(D15-Pad2) )
+ )
+ ( /5A38AE07 $noname  D20 LED
+  (    1 Net-(D13-Pad1) )
+  (    2 Net-(D15-Pad2) )
+ )
+ ( /5A38AE0E $noname  D21 LED
+  (    1 Net-(D14-Pad1) )
+  (    2 Net-(D15-Pad2) )
+ )
+ ( /5A38AE31 $noname  D23 LED
+  (    1 Net-(D16-Pad1) )
+  (    2 Net-(D22-Pad2) )
+ )
+ ( /5A38AE38 $noname  D22 LED
+  (    1 Net-(D1-Pad1) )
+  (    2 Net-(D22-Pad2) )
+ )
+ ( /5A38AE3F $noname  D24 LED
+  (    1 Net-(D10-Pad1) )
+  (    2 Net-(D22-Pad2) )
+ )
+ ( /5A38AE46 $noname  D25 LED
+  (    1 Net-(D11-Pad1) )
+  (    2 Net-(D22-Pad2) )
+ )
+ ( /5A38AE4D $noname  D26 LED
+  (    1 Net-(D12-Pad1) )
+  (    2 Net-(D22-Pad2) )
+ )
+ ( /5A38AE54 $noname  D27 LED
+  (    1 Net-(D13-Pad1) )
+  (    2 Net-(D22-Pad2) )
+ )
+ ( /5A38AE5B $noname  D28 LED
+  (    1 Net-(D14-Pad1) )
+  (    2 Net-(D22-Pad2) )
+ )
+ ( /5A38AE7E $noname  D30 LED
+  (    1 Net-(D16-Pad1) )
+  (    2 Net-(D29-Pad2) )
+ )
+ ( /5A38AE85 $noname  D29 LED
+  (    1 Net-(D1-Pad1) )
+  (    2 Net-(D29-Pad2) )
+ )
+ ( /5A38AE8C $noname  D31 LED
+  (    1 Net-(D10-Pad1) )
+  (    2 Net-(D29-Pad2) )
+ )
+ ( /5A38AE93 $noname  D32 LED
+  (    1 Net-(D11-Pad1) )
+  (    2 Net-(D29-Pad2) )
+ )
+ ( /5A38AE9A $noname  D33 LED
+  (    1 Net-(D12-Pad1) )
+  (    2 Net-(D29-Pad2) )
+ )
+ ( /5A38AEA1 $noname  D34 LED
+  (    1 Net-(D13-Pad1) )
+  (    2 Net-(D29-Pad2) )
+ )
+ ( /5A38AEA8 $noname  D35 LED
+  (    1 Net-(D14-Pad1) )
+  (    2 Net-(D29-Pad2) )
+ )
+ ( /5A38AECB $noname  D37 LED
+  (    1 Net-(D16-Pad1) )
+  (    2 Net-(D36-Pad2) )
+ )
+ ( /5A38AED2 $noname  D36 LED
+  (    1 Net-(D1-Pad1) )
+  (    2 Net-(D36-Pad2) )
+ )
+ ( /5A38AED9 $noname  D38 LED
+  (    1 Net-(D10-Pad1) )
+  (    2 Net-(D36-Pad2) )
+ )
+ ( /5A38AEE0 $noname  D39 LED
+  (    1 Net-(D11-Pad1) )
+  (    2 Net-(D36-Pad2) )
+ )
+ ( /5A38AEE7 $noname  D40 LED
+  (    1 Net-(D12-Pad1) )
+  (    2 Net-(D36-Pad2) )
+ )
+ ( /5A38AEEE $noname  D41 LED
+  (    1 Net-(D13-Pad1) )
+  (    2 Net-(D36-Pad2) )
+ )
+ ( /5A38AEF5 $noname  D42 LED
+  (    1 Net-(D14-Pad1) )
+  (    2 Net-(D36-Pad2) )
+ )
+ ( /5A38AF18 $noname  D44 LED
+  (    1 Net-(D16-Pad1) )
+  (    2 Net-(D43-Pad2) )
+ )
+ ( /5A38AF1F $noname  D43 LED
+  (    1 Net-(D1-Pad1) )
+  (    2 Net-(D43-Pad2) )
+ )
+ ( /5A38AF26 $noname  D45 LED
+  (    1 Net-(D10-Pad1) )
+  (    2 Net-(D43-Pad2) )
+ )
+ ( /5A38AF2D $noname  D46 LED
+  (    1 Net-(D11-Pad1) )
+  (    2 Net-(D43-Pad2) )
+ )
+ ( /5A38AF34 $noname  D47 LED
+  (    1 Net-(D12-Pad1) )
+  (    2 Net-(D43-Pad2) )
+ )
+ ( /5A38AF3B $noname  D48 LED
+  (    1 Net-(D13-Pad1) )
+  (    2 Net-(D43-Pad2) )
+ )
+ ( /5A38AF42 $noname  D49 LED
+  (    1 Net-(D14-Pad1) )
+  (    2 Net-(D43-Pad2) )
+ )
+ ( /5A38AF65 $noname  D51 LED
+  (    1 Net-(D16-Pad1) )
+  (    2 Net-(D50-Pad2) )
+ )
+ ( /5A38AF6C $noname  D50 LED
+  (    1 Net-(D1-Pad1) )
+  (    2 Net-(D50-Pad2) )
+ )
+ ( /5A38AF73 $noname  D52 LED
+  (    1 Net-(D10-Pad1) )
+  (    2 Net-(D50-Pad2) )
+ )
+ ( /5A38AF7A $noname  D53 LED
+  (    1 Net-(D11-Pad1) )
+  (    2 Net-(D50-Pad2) )
+ )
+ ( /5A38AF81 $noname  D54 LED
+  (    1 Net-(D12-Pad1) )
+  (    2 Net-(D50-Pad2) )
+ )
+ ( /5A38AF88 $noname  D55 LED
+  (    1 Net-(D13-Pad1) )
+  (    2 Net-(D50-Pad2) )
+ )
+ ( /5A38AF8F $noname  D56 LED
+  (    1 Net-(D14-Pad1) )
+  (    2 Net-(D50-Pad2) )
+ )
+ ( /5A38AFB2 $noname  D58 LED
+  (    1 Net-(D16-Pad1) )
+  (    2 Net-(D57-Pad2) )
+ )
+ ( /5A38AFB9 $noname  D57 LED
+  (    1 Net-(D1-Pad1) )
+  (    2 Net-(D57-Pad2) )
+ )
+ ( /5A38AFC0 $noname  D59 LED
+  (    1 Net-(D10-Pad1) )
+  (    2 Net-(D57-Pad2) )
+ )
+ ( /5A38AFC7 $noname  D60 LED
+  (    1 Net-(D11-Pad1) )
+  (    2 Net-(D57-Pad2) )
+ )
+ ( /5A38AFCE $noname  D61 LED
+  (    1 Net-(D12-Pad1) )
+  (    2 Net-(D57-Pad2) )
+ )
+ ( /5A38AFD5 $noname  D62 LED
+  (    1 Net-(D13-Pad1) )
+  (    2 Net-(D57-Pad2) )
+ )
+ ( /5A38AFDC $noname  D63 LED
+  (    1 Net-(D14-Pad1) )
+  (    2 Net-(D57-Pad2) )
+ )
+ ( /5A3CA0EE $noname  J2 Conn_01x07
+  (    1 Net-(D14-Pad1) )
+  (    2 Net-(D13-Pad1) )
+  (    3 Net-(D12-Pad1) )
+  (    4 Net-(D11-Pad1) )
+  (    5 Net-(D10-Pad1) )
+  (    6 Net-(D16-Pad1) )
+  (    7 Net-(D1-Pad1) )
+ )
+ ( /5A3E45AB $noname  J4 Conn_01x07
+  (    1 Net-(D14-Pad1) )
+  (    2 Net-(D13-Pad1) )
+  (    3 Net-(D12-Pad1) )
+  (    4 Net-(D11-Pad1) )
+  (    5 Net-(D10-Pad1) )
+  (    6 Net-(D16-Pad1) )
+  (    7 Net-(D1-Pad1) )
+ )
+ ( /5A3EFD54 $noname  J3 Conn_01x07
+  (    1 Net-(D106-Pad1) )
+  (    2 Net-(D100-Pad1) )
+  (    3 Net-(D101-Pad1) )
+  (    4 Net-(D102-Pad1) )
+  (    5 Net-(D103-Pad1) )
+  (    6 Net-(D104-Pad1) )
+  (    7 Net-(D105-Pad1) )
+ )
+ ( /5A3F21DA $noname  J5 Conn_01x07
+  (    1 Net-(D106-Pad1) )
+  (    2 Net-(D100-Pad1) )
+  (    3 Net-(D101-Pad1) )
+  (    4 Net-(D102-Pad1) )
+  (    5 Net-(D103-Pad1) )
+  (    6 Net-(D104-Pad1) )
+  (    7 Net-(D105-Pad1) )
+ )
+ ( /5A3FCE6B Housings_DIP:DIP-28_W7.62mm  U3 TLC5940NT
+  (    1 Net-(D10-Pad2) )
+  (    2 Net-(D15-Pad2) )
+  (    3 Net-(D22-Pad2) )
+  (    4 Net-(D29-Pad2) )
+  (    5 Net-(D36-Pad2) )
+  (    6 Net-(D43-Pad2) )
+  (    7 Net-(D50-Pad2) )
+  (    8 Net-(D57-Pad2) )
+  (    9 Net-(D78-Pad2) )
+  (   10 Net-(D85-Pad2) )
+  (   11 Net-(D92-Pad2) )
+  (   12 Net-(D100-Pad2) )
+  (   13 Net-(D106-Pad2) )
+  (   14 Net-(D113-Pad2) )
+  (   15 Net-(D120-Pad2) )
+  (   16 ? )
+  (   17 Net-(J6-Pad4) )
+  (   18 /GSLCK )
+  (   19 +5V )
+  (   20 Net-(R1-Pad1) )
+  (   21 +5V )
+  (   22 GND )
+  (   23 GND )
+  (   24 /LATCH )
+  (   25 /M_CLK )
+  (   26 Net-(J1-Pad4) )
+  (   27 GND )
+  (   28 Net-(D1-Pad2) )
+ )
+ ( /5A43BD13 $noname  R1 R330
+  (    1 Net-(R1-Pad1) )
+  (    2 +5V )
+ )
+ ( /5A3B5D71 $noname  U1 WeMos_mini
+  (    1 +5V )
+  (    2 GND )
+  (    3 /M_CLK )
+  (    4 /LATCH )
+  (    5 Net-(J1-Pad4) )
+  (    6 /GSLCK )
+  (    7 ? )
+  (    8 ? )
+  (    9 ? )
+  (   10 Net-(RV1-Pad3) )
+  (   11 Net-(SW4-Pad1) )
+  (   12 Net-(SW3-Pad1) )
+  (   13 Net-(SW2-Pad1) )
+  (   14 Net-(SW1-Pad1) )
+  (   15 Net-(U1-Pad15) )
+  (   16 /3.3V )
+ )
+ ( /5A3F45E2 $noname  SW1 SW_Push
+  (    1 Net-(SW1-Pad1) )
+  (    2 /3.3V )
+ )
+ ( /5A3F472B $noname  SW2 SW_Push
+  (    1 Net-(SW2-Pad1) )
+  (    2 /3.3V )
+ )
+ ( /5A3F4860 $noname  SW3 SW_Push
+  (    1 Net-(SW3-Pad1) )
+  (    2 /3.3V )
+ )
+ ( /5A3F4999 $noname  SW4 SW_Push
+  (    1 Net-(SW4-Pad1) )
+  (    2 /3.3V )
+ )
+ ( /5A3FD49E $noname  RV1 POT
+  (    1 ? )
+  (    2 /3.3V )
+  (    3 Net-(RV1-Pad3) )
+ )
+ ( /5A404A60 $noname  U2 TPIC6B595N
+  (    1 ? )
+  (    2 +5V )
+  (    3 Net-(U1-Pad15) )
+  (    4 Net-(D106-Pad1) )
+  (    5 Net-(D100-Pad1) )
+  (    6 Net-(D101-Pad1) )
+  (    7 Net-(D102-Pad1) )
+  (    8 +5V )
+  (    9 GND )
+  (   10 GND )
+  (   11 GND )
+  (   12 /LATCH )
+  (   13 /M_CLK )
+  (   14 Net-(D103-Pad1) )
+  (   15 Net-(D104-Pad1) )
+  (   16 Net-(D105-Pad1) )
+  (   17 ? )
+  (   18 Net-(U2-Pad18) )
+  (   19 GND )
+  (   20 ? )
+ )
+ ( /5A426377 $noname  U4 TPIC6B595N
+  (    1 ? )
+  (    2 +5V )
+  (    3 Net-(U2-Pad18) )
+  (    4 Net-(D105-Pad1) )
+  (    5 Net-(D104-Pad1) )
+  (    6 Net-(D103-Pad1) )
+  (    7 Net-(D102-Pad1) )
+  (    8 +5V )
+  (    9 GND )
+  (   10 GND )
+  (   11 GND )
+  (   12 /LATCH )
+  (   13 /M_CLK )
+  (   14 Net-(D101-Pad1) )
+  (   15 Net-(D100-Pad1) )
+  (   16 Net-(D106-Pad1) )
+  (   17 ? )
+  (   18 ? )
+  (   19 GND )
+  (   20 ? )
+ )
+ ( /5A4FA491 $noname  J6 Conn_01x06
+  (    1 /LATCH )
+  (    2 /GSLCK )
+  (    3 /M_CLK )
+  (    4 Net-(J6-Pad4) )
+  (    5 +5V )
+  (    6 GND )
+ )
+ ( /5A4FC1ED $noname  J1 Conn_01x06
+  (    1 /LATCH )
+  (    2 /GSLCK )
+  (    3 /M_CLK )
+  (    4 Net-(J1-Pad4) )
+  (    5 +5V )
+  (    6 GND )
+ )
+)
+*
