@@ -1749,14 +1749,6 @@ Text Label 3000 10950 3    60   ~ 0
 3.3V
 Text Label 2350 9650 0    60   ~ 0
 3.3V
-Text Label 3200 9750 0    60   ~ 0
-3.3V
-Text Label 3200 10000 0    60   ~ 0
-3.3V
-Text Label 3200 10250 0    60   ~ 0
-3.3V
-Text Label 3200 10500 0    60   ~ 0
-3.3V
 Wire Wire Line
 	5000 1750 5000 4900
 Wire Wire Line
@@ -2673,4 +2665,12 @@ Wire Wire Line
 Wire Wire Line
 	9100 5700 9100 7650
 Connection ~ 5850 4600
+Text Label 3200 9750 0    60   ~ 0
+GND
+Text Label 3200 10000 0    60   ~ 0
+GND
+Text Label 3200 10250 0    60   ~ 0
+GND
+Text Label 3200 10500 0    60   ~ 0
+GND
 $EndSCHEMATC

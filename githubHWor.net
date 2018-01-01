@@ -1,4 +1,4 @@
-( { EESchema Netlist Version 1.1 created  01.01.2018 18:26:21 }
+( { EESchema Netlist Version 1.1 created  01.01.2018 19:57:25 }
  ( /5A383435 LEDs:LED_D3.0mm  D65 LED
   (    1 Net-(D100-Pad1) )
   (    2 Net-(D50-Pad2) )
@@ -593,19 +593,19 @@
  )
  ( /5A3F45E2 Buttons_Switches_THT:SW_PUSH_6mm  SW1 SW_Push
   (    1 Net-(SW1-Pad1) )
-  (    2 /3.3V )
+  (    2 GND )
  )
  ( /5A3F472B Buttons_Switches_THT:SW_PUSH_6mm  SW2 SW_Push
   (    1 Net-(SW2-Pad1) )
-  (    2 /3.3V )
+  (    2 GND )
  )
  ( /5A3F4860 Buttons_Switches_THT:SW_PUSH_6mm  SW3 SW_Push
   (    1 Net-(SW3-Pad1) )
-  (    2 /3.3V )
+  (    2 GND )
  )
  ( /5A3F4999 Buttons_Switches_THT:SW_PUSH_6mm  SW4 SW_Push
   (    1 Net-(SW4-Pad1) )
-  (    2 /3.3V )
+  (    2 GND )
  )
  ( /5A3FD49E Potentiometers:Potentiometer_WirePads_largePads  RV1 POT
   (    1 ? )
