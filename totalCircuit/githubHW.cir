@@ -1,0 +1,152 @@
+* C:\Users\Armin Beck\Documents\hw\githubHW.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: 22.12.2017 06:53:42
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+D65  Net-_D100-Pad1_ Net-_D50-Pad2_ LED		
+D64  Net-_D106-Pad1_ Net-_D50-Pad2_ LED		
+D66  Net-_D101-Pad1_ Net-_D50-Pad2_ LED		
+D67  Net-_D102-Pad1_ Net-_D50-Pad2_ LED		
+D68  Net-_D103-Pad1_ Net-_D50-Pad2_ LED		
+D69  Net-_D104-Pad1_ Net-_D50-Pad2_ LED		
+D70  Net-_D105-Pad1_ Net-_D50-Pad2_ LED		
+D72  Net-_D100-Pad1_ Net-_D57-Pad2_ LED		
+D71  Net-_D106-Pad1_ Net-_D57-Pad2_ LED		
+D73  Net-_D101-Pad1_ Net-_D57-Pad2_ LED		
+D74  Net-_D102-Pad1_ Net-_D57-Pad2_ LED		
+D75  Net-_D103-Pad1_ Net-_D57-Pad2_ LED		
+D76  Net-_D104-Pad1_ Net-_D57-Pad2_ LED		
+D77  Net-_D105-Pad1_ Net-_D57-Pad2_ LED		
+D79  Net-_D100-Pad1_ Net-_D78-Pad2_ LED		
+D78  Net-_D106-Pad1_ Net-_D78-Pad2_ LED		
+D80  Net-_D101-Pad1_ Net-_D78-Pad2_ LED		
+D81  Net-_D102-Pad1_ Net-_D78-Pad2_ LED		
+D82  Net-_D103-Pad1_ Net-_D78-Pad2_ LED		
+D83  Net-_D104-Pad1_ Net-_D78-Pad2_ LED		
+D84  Net-_D105-Pad1_ Net-_D78-Pad2_ LED		
+D86  Net-_D100-Pad1_ Net-_D85-Pad2_ LED		
+D85  Net-_D106-Pad1_ Net-_D85-Pad2_ LED		
+D87  Net-_D101-Pad1_ Net-_D85-Pad2_ LED		
+D88  Net-_D102-Pad1_ Net-_D85-Pad2_ LED		
+D89  Net-_D103-Pad1_ Net-_D85-Pad2_ LED		
+D90  Net-_D104-Pad1_ Net-_D85-Pad2_ LED		
+D91  Net-_D105-Pad1_ Net-_D85-Pad2_ LED		
+D93  Net-_D100-Pad1_ Net-_D92-Pad2_ LED		
+D92  Net-_D106-Pad1_ Net-_D92-Pad2_ LED		
+D94  Net-_D101-Pad1_ Net-_D92-Pad2_ LED		
+D95  Net-_D102-Pad1_ Net-_D92-Pad2_ LED		
+D96  Net-_D103-Pad1_ Net-_D92-Pad2_ LED		
+D97  Net-_D104-Pad1_ Net-_D92-Pad2_ LED		
+D98  Net-_D105-Pad1_ Net-_D92-Pad2_ LED		
+D100  Net-_D100-Pad1_ Net-_D100-Pad2_ LED		
+D99  Net-_D106-Pad1_ Net-_D100-Pad2_ LED		
+D101  Net-_D101-Pad1_ Net-_D100-Pad2_ LED		
+D102  Net-_D102-Pad1_ Net-_D100-Pad2_ LED		
+D103  Net-_D103-Pad1_ Net-_D100-Pad2_ LED		
+D104  Net-_D104-Pad1_ Net-_D100-Pad2_ LED		
+D105  Net-_D105-Pad1_ Net-_D100-Pad2_ LED		
+D107  Net-_D100-Pad1_ Net-_D106-Pad2_ LED		
+D106  Net-_D106-Pad1_ Net-_D106-Pad2_ LED		
+D108  Net-_D101-Pad1_ Net-_D106-Pad2_ LED		
+D109  Net-_D102-Pad1_ Net-_D106-Pad2_ LED		
+D110  Net-_D103-Pad1_ Net-_D106-Pad2_ LED		
+D111  Net-_D104-Pad1_ Net-_D106-Pad2_ LED		
+D112  Net-_D105-Pad1_ Net-_D106-Pad2_ LED		
+D114  Net-_D100-Pad1_ Net-_D113-Pad2_ LED		
+D113  Net-_D106-Pad1_ Net-_D113-Pad2_ LED		
+D115  Net-_D101-Pad1_ Net-_D113-Pad2_ LED		
+D116  Net-_D102-Pad1_ Net-_D113-Pad2_ LED		
+D117  Net-_D103-Pad1_ Net-_D113-Pad2_ LED		
+D118  Net-_D104-Pad1_ Net-_D113-Pad2_ LED		
+D119  Net-_D105-Pad1_ Net-_D113-Pad2_ LED		
+D121  Net-_D100-Pad1_ Net-_D120-Pad2_ LED		
+D120  Net-_D106-Pad1_ Net-_D120-Pad2_ LED		
+D122  Net-_D101-Pad1_ Net-_D120-Pad2_ LED		
+D123  Net-_D102-Pad1_ Net-_D120-Pad2_ LED		
+D124  Net-_D103-Pad1_ Net-_D120-Pad2_ LED		
+D125  Net-_D104-Pad1_ Net-_D120-Pad2_ LED		
+D126  Net-_D105-Pad1_ Net-_D120-Pad2_ LED		
+D2  Net-_D16-Pad1_ Net-_D1-Pad2_ LED		
+D1  Net-_D1-Pad1_ Net-_D1-Pad2_ LED		
+D3  Net-_D10-Pad1_ Net-_D1-Pad2_ LED		
+D4  Net-_D11-Pad1_ Net-_D1-Pad2_ LED		
+D5  Net-_D12-Pad1_ Net-_D1-Pad2_ LED		
+D6  Net-_D13-Pad1_ Net-_D1-Pad2_ LED		
+D7  Net-_D14-Pad1_ Net-_D1-Pad2_ LED		
+D9  Net-_D16-Pad1_ Net-_D10-Pad2_ LED		
+D8  Net-_D1-Pad1_ Net-_D10-Pad2_ LED		
+D10  Net-_D10-Pad1_ Net-_D10-Pad2_ LED		
+D11  Net-_D11-Pad1_ Net-_D10-Pad2_ LED		
+D12  Net-_D12-Pad1_ Net-_D10-Pad2_ LED		
+D13  Net-_D13-Pad1_ Net-_D10-Pad2_ LED		
+D14  Net-_D14-Pad1_ Net-_D10-Pad2_ LED		
+D16  Net-_D16-Pad1_ Net-_D15-Pad2_ LED		
+D15  Net-_D1-Pad1_ Net-_D15-Pad2_ LED		
+D17  Net-_D10-Pad1_ Net-_D15-Pad2_ LED		
+D18  Net-_D11-Pad1_ Net-_D15-Pad2_ LED		
+D19  Net-_D12-Pad1_ Net-_D15-Pad2_ LED		
+D20  Net-_D13-Pad1_ Net-_D15-Pad2_ LED		
+D21  Net-_D14-Pad1_ Net-_D15-Pad2_ LED		
+D23  Net-_D16-Pad1_ Net-_D22-Pad2_ LED		
+D22  Net-_D1-Pad1_ Net-_D22-Pad2_ LED		
+D24  Net-_D10-Pad1_ Net-_D22-Pad2_ LED		
+D25  Net-_D11-Pad1_ Net-_D22-Pad2_ LED		
+D26  Net-_D12-Pad1_ Net-_D22-Pad2_ LED		
+D27  Net-_D13-Pad1_ Net-_D22-Pad2_ LED		
+D28  Net-_D14-Pad1_ Net-_D22-Pad2_ LED		
+D30  Net-_D16-Pad1_ Net-_D29-Pad2_ LED		
+D29  Net-_D1-Pad1_ Net-_D29-Pad2_ LED		
+D31  Net-_D10-Pad1_ Net-_D29-Pad2_ LED		
+D32  Net-_D11-Pad1_ Net-_D29-Pad2_ LED		
+D33  Net-_D12-Pad1_ Net-_D29-Pad2_ LED		
+D34  Net-_D13-Pad1_ Net-_D29-Pad2_ LED		
+D35  Net-_D14-Pad1_ Net-_D29-Pad2_ LED		
+D37  Net-_D16-Pad1_ Net-_D36-Pad2_ LED		
+D36  Net-_D1-Pad1_ Net-_D36-Pad2_ LED		
+D38  Net-_D10-Pad1_ Net-_D36-Pad2_ LED		
+D39  Net-_D11-Pad1_ Net-_D36-Pad2_ LED		
+D40  Net-_D12-Pad1_ Net-_D36-Pad2_ LED		
+D41  Net-_D13-Pad1_ Net-_D36-Pad2_ LED		
+D42  Net-_D14-Pad1_ Net-_D36-Pad2_ LED		
+D44  Net-_D16-Pad1_ Net-_D43-Pad2_ LED		
+D43  Net-_D1-Pad1_ Net-_D43-Pad2_ LED		
+D45  Net-_D10-Pad1_ Net-_D43-Pad2_ LED		
+D46  Net-_D11-Pad1_ Net-_D43-Pad2_ LED		
+D47  Net-_D12-Pad1_ Net-_D43-Pad2_ LED		
+D48  Net-_D13-Pad1_ Net-_D43-Pad2_ LED		
+D49  Net-_D14-Pad1_ Net-_D43-Pad2_ LED		
+D51  Net-_D16-Pad1_ Net-_D50-Pad2_ LED		
+D50  Net-_D1-Pad1_ Net-_D50-Pad2_ LED		
+D52  Net-_D10-Pad1_ Net-_D50-Pad2_ LED		
+D53  Net-_D11-Pad1_ Net-_D50-Pad2_ LED		
+D54  Net-_D12-Pad1_ Net-_D50-Pad2_ LED		
+D55  Net-_D13-Pad1_ Net-_D50-Pad2_ LED		
+D56  Net-_D14-Pad1_ Net-_D50-Pad2_ LED		
+D58  Net-_D16-Pad1_ Net-_D57-Pad2_ LED		
+D57  Net-_D1-Pad1_ Net-_D57-Pad2_ LED		
+D59  Net-_D10-Pad1_ Net-_D57-Pad2_ LED		
+D60  Net-_D11-Pad1_ Net-_D57-Pad2_ LED		
+D61  Net-_D12-Pad1_ Net-_D57-Pad2_ LED		
+D62  Net-_D13-Pad1_ Net-_D57-Pad2_ LED		
+D63  Net-_D14-Pad1_ Net-_D57-Pad2_ LED		
+J2  Net-_D14-Pad1_ Net-_D13-Pad1_ Net-_D12-Pad1_ Net-_D11-Pad1_ Net-_D10-Pad1_ Net-_D16-Pad1_ Net-_D1-Pad1_ Conn_01x07		
+J4  Net-_D14-Pad1_ Net-_D13-Pad1_ Net-_D12-Pad1_ Net-_D11-Pad1_ Net-_D10-Pad1_ Net-_D16-Pad1_ Net-_D1-Pad1_ Conn_01x07		
+J3  Net-_D106-Pad1_ Net-_D100-Pad1_ Net-_D101-Pad1_ Net-_D102-Pad1_ Net-_D103-Pad1_ Net-_D104-Pad1_ Net-_D105-Pad1_ Conn_01x07		
+J5  Net-_D106-Pad1_ Net-_D100-Pad1_ Net-_D101-Pad1_ Net-_D102-Pad1_ Net-_D103-Pad1_ Net-_D104-Pad1_ Net-_D105-Pad1_ Conn_01x07		
+U3  Net-_D10-Pad2_ Net-_D15-Pad2_ Net-_D22-Pad2_ Net-_D29-Pad2_ Net-_D36-Pad2_ Net-_D43-Pad2_ Net-_D50-Pad2_ Net-_D57-Pad2_ Net-_D78-Pad2_ Net-_D85-Pad2_ Net-_D92-Pad2_ Net-_D100-Pad2_ Net-_D106-Pad2_ Net-_D113-Pad2_ Net-_D120-Pad2_ ? Net-_J6-Pad2_ /GSLCK +5V Net-_R1-Pad1_ +5V GND GND /LATCH /M_CLK Net-_J1-Pad2_ GND Net-_D1-Pad2_ TLC5940NT		
+R1  Net-_R1-Pad1_ +5V R330		
+J1  /M_CLK Net-_J1-Pad2_ +5V GND Conn_01x04		
+J6  /M_CLK Net-_J6-Pad2_ +5V GND Conn_01x04		
+U1  +5V GND /M_CLK /LATCH Net-_J1-Pad2_ /GSLCK ? ? ? Net-_RV1-Pad3_ Net-_SW4-Pad1_ Net-_SW3-Pad1_ Net-_SW2-Pad1_ Net-_SW1-Pad1_ Net-_U1-Pad15_ ? WeMos_mini		
+SW1  Net-_SW1-Pad1_ +5V SW_Push		
+SW2  Net-_SW2-Pad1_ +5V SW_Push		
+SW3  Net-_SW3-Pad1_ +5V SW_Push		
+SW4  Net-_SW4-Pad1_ +5V SW_Push		
+RV1  ? +5V Net-_RV1-Pad3_ POT		
+U2  ? +5V Net-_U1-Pad15_ Net-_D106-Pad1_ Net-_D100-Pad1_ Net-_D101-Pad1_ Net-_D102-Pad1_ +5V GND GND GND /LATCH /M_CLK Net-_D103-Pad1_ Net-_D104-Pad1_ Net-_D105-Pad1_ ? Net-_U2-Pad18_ GND ? TPIC6B595N		
+U4  ? +5V Net-_U2-Pad18_ Net-_D105-Pad1_ Net-_D104-Pad1_ Net-_D103-Pad1_ Net-_D102-Pad1_ +5V GND GND GND /LATCH /M_CLK Net-_D101-Pad1_ Net-_D100-Pad1_ Net-_D106-Pad1_ ? ? GND ? TPIC6B595N		
+
+.end
