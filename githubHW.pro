@@ -1,4 +1,4 @@
-update=21.12.2017 06:25:39
+update=07.01.2018 14:47:02
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=d1_mini_kicad-master;../hw
@@ -63,3 +61,5 @@ LibName31=contrib
 LibName32=valves
 LibName33=d1_mini_kicad-master/library/wemos_mini
 LibName34=tpic6b595
+[general]
+version=1
