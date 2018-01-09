@@ -1593,7 +1593,6 @@ F 3 "" H 3450 10300 50  0001 C CNN
 	1    3450 10300
 	0    1    1    0   
 $EndComp
-NoConn ~ 3600 10300
 $Comp
 L TPIC6B595N U2
 U 1 1 5A404A60
@@ -1745,7 +1744,7 @@ F 3 "" H 1050 8500 50  0001 C CNN
 	1    1050 8500
 	-1   0    0    -1  
 $EndComp
-Text Label 3450 10450 3    60   ~ 0
+Text Label 3600 10300 0    60   ~ 0
 3.3V
 Text Label 2800 9150 0    60   ~ 0
 3.3V
@@ -1768,9 +1767,7 @@ Wire Wire Line
 Wire Wire Line
 	2950 9750 2800 9750
 Wire Wire Line
-	2950 10300 2950 9750
-Wire Wire Line
-	3300 10300 2950 10300
+	2950 9750 2950 10450
 Wire Wire Line
 	3000 10000 3250 10000
 Wire Wire Line
@@ -2556,4 +2553,8 @@ Connection ~ 6150 6200
 Wire Wire Line
 	6700 6100 6150 6100
 Connection ~ 6250 6150
+Text Label 3300 10300 2    60   ~ 0
+GND
+Wire Wire Line
+	2950 10450 3450 10450
 $EndSCHEMATC
