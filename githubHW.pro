@@ -1,4 +1,4 @@
-update=07.01.2018 14:47:02
+update=16.01.2018 09:20:43
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,9 +23,11 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=d1_mini_kicad-master;../hw
+LibDir=
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -61,5 +63,4 @@ LibName31=contrib
 LibName32=valves
 LibName33=d1_mini_kicad-master/library/wemos_mini
 LibName34=tpic6b595
-[general]
-version=1
+LibName35=mounthole
